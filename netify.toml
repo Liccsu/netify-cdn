@@ -4,6 +4,11 @@
   status = 200
 
 [[redirects]]
-  from = "/ip/*"
-  to = "https://kernel.ifoxhui.com/:splat"
+  from = "/detect/*"
+  to = "https://detect.liccsu.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/github/*"
+  to = "https://github.com/:splat"
   status = 200
