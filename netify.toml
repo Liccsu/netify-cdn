@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/gemini/*"
+  to = "https://generativelanguage.googleapis.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/ip/*"
+  to = "https://test.liccsu.com/:splat"
+  status = 200
